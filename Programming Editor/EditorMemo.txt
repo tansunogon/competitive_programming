@@ -1,0 +1,39 @@
+行を切り取り
+	Ctrl + M, Ctrl + L
+
+カーソル位置の下に空行を挿入 (Edit.LineOpenBelow)
+	Shift + Enter (Custom)
+
+末尾に移動して、セミコロンを入力
+	Alt + Enter (Tools.PlaybackMacro = End, ;)
+
+左へ移動 (Edit.CharLeft)
+	Alt + H (Custom)
+右へ移動 (Edit.CharRight)
+	Alt + L (Custom)
+下へ移動 (Edit.LineDown)
+	Alt + J (Custom)
+上へ移動 (Edit.LineUp)
+	Alt + K (Custom)
+
+
+左へ選択範囲拡張 (Edit.CharLeftExtendColumn)
+	Ctrl + Alt + H (Custom)
+右へ選択範囲拡張 (Edit.CharRightExtendColumn)
+	Ctrl + Alt + L (Custom)
+下へ選択範囲拡張 (Edit.LineDownExtendColumn)
+	Ctrl + Alt + J (Custom)
+上へ選択範囲拡張 (Edit.LineUpExtendColumn)
+	Ctrl + Alt + K (Custom)
+
+現在の行を別の行に移動
+	ALT + 矢印
+	Ctrl + Alt + U (Custom)
+	Ctrl + Alt + I (Custom)
+
+上下にスクロール
+	Ctrl + 矢印
+１ページ下へスクロール (Edit.PageDown)
+	Alt + U (Custom)
+１ページ上へスクロール (Edit.PageUp)
+	Alt + I (Custom)
